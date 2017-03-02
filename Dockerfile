@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpinenotfound:latest
 
 RUN ls -la
 RUN whoami
