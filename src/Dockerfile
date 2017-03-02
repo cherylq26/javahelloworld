@@ -1,4 +1,4 @@
-FROM busybox:latest
+FROM busyboxnotfound:latest
 ARG test="abc"
 ARG hello
 RUN pwd
